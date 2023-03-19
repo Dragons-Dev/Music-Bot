@@ -1,0 +1,18 @@
+{
+  "EXAMPLE1": {
+    "HOST": "127.0.0.1",
+    "PORT": 2333,
+    "PASSWORD": "youshallnotpass",
+    "SECURE": false,
+    "SPOTIFY_ID": "",
+    "SPOTIFY_SECRET": ""
+  },
+  "EXAMPLE2": {
+    "HOST": "lavalink server ip",
+    "PORT": "lavalink server port",
+    "PASSWORD": "lavalink server password",
+    "SECURE": "is ssl activated",
+    "SPOTIFY_ID": "your spotify id and secret",
+    "SPOTIFY_SECRET": "(availible here https://developer.spotify.com/dashboard/login)"
+  }
+}
