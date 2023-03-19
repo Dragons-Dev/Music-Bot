@@ -16,6 +16,7 @@
 - [server hosting lavalink](https://github.com/freyacodes/Lavalink)
     - [a free list is here](https://lavalink.darrennathanael.com/)
 - py-cord  `pip install py-cord`
+- pycord-multicog `pip install pycord-multicog`
 - pomice (removed the discord.py requirement) `pip install git+https://github.com/DTheIcyDragon/pomice`
 
 # Initial setup
